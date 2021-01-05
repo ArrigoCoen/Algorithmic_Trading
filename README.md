@@ -11,4 +11,7 @@ This repository is base on the course of [Nick McCullum](https://nickmccullum.co
 
 To run the Jupyter is recomended to dowload [Jupyter Notebook](https://jupyter.org/)
 
-# 
+# R Shiny time series analisis
+
+
+# Phyton Algorithmic trading analysis
