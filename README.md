@@ -1,4 +1,5 @@
-﻿# Algorithmic Trading of Food Stocks
+
+# Algorithmic Trading of Food Stocks
 
 
 In this repository are presented techniques to guide investment decisions on stocks of meat companies using the tools of Algorithmic Trading. In particular, we will analyze the a analyze the data of stocks of the meat companies:
