@@ -34,6 +34,8 @@ divs = soup.find_all('div', class_='overflow-x-auto')
 
 #%%
 
+#  [here](https://www.youtube.com/watch?v=PPcgtx0sI2E&list=PLOxtsYaYauiSoHSyjo4uUZhnaWjNYdGfL&index=5&t=169s)
+
 divs = soup.find_all('div', class_='overflow-x-auto')
 divs = soup.find_all('div', class_='symbol-table index')
 aca = 1
